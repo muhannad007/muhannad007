@@ -1,4 +1,4 @@
 - 👋 Hi, I’m muhannad
 - 👀 I’m interested in coding
-- 🌱 I’m a web and embedded systems developer
+- 🌱 I’m a machine learning engineer and a software developer
 - 📫 You can reach me at my email: muhannadafeefe654@gmail.com
