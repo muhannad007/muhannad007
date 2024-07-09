@@ -1,4 +1,4 @@
 - 👋 Hi, I’m muhannad
 - 👀 I’m interested in coding
-- 🌱 I’m a machine learning engineer and a software developer
+- 🌱 I’m a full stack developer (MERN stack developer)
 - 📫 You can reach me at my email: muhannadafeefe654@gmail.com
